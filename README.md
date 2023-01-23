@@ -1,2 +1,2 @@
 # pokedex-html-css-js
- Initial commit
+Pokédex using HTML, CSS and JavaScript
